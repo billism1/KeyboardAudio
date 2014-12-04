@@ -7,8 +7,8 @@
     <ProjectGuid>{3B477F21-D322-442B-B533-89864668BA27}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KeybaordAudio</RootNamespace>
-    <AssemblyName>KeybaordAudio</AssemblyName>
+    <RootNamespace>KeyboardAudio</RootNamespace>
+    <AssemblyName>KeyboardAudio</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
