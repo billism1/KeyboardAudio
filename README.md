@@ -10,6 +10,8 @@ What is it
 ----------
 This is a simple Windows program that analyzes sound from the default audio input device on your system and outputs a spectrogram to a connected Corsair K70 RGB keyboard. A vertical spectrogram is also displayed to the consule via asii.
 
+See demo here: https://www.youtube.com/watch?v=uzDwbH20-j8
+
 Dependencies
 ------------
 - OpenTK - This .Net assembly library provides a wrapper for OpenAL, which provides the audio input for the program.
